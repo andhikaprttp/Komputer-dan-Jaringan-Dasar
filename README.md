@@ -15,3 +15,4 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Langkah Langkah Konfigurasi BIOS](konfig-bios.md)
 - [Definisi Sistem Operasi](os.md)
 - [Kernel](definisi-kernel)
+- [Instalasi Windows 10 | 32 bit](install-windows10.md)
