@@ -7,5 +7,5 @@
 - [VirtualBox](https://www.virtualbox.org/)
 
 ## Langkah Pertama
-Buka VirtualBox ( jika belum punya bisa di download melalui [sini](https://www.virtualbox.org/) serta panduan instalasinya ada di [sini](a.md)
+Buka VirtualBox ( jika belum punya bisa di download melalui [sini](https://www.virtualbox.org/) serta panduan instalasinya ada di [sini](a.md) )
 <img src="https://winpreso.com/wp-content/uploads/2021/12/0_cara-install-windows-10-di-virtualbox.png">
