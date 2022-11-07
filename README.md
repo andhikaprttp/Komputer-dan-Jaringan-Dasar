@@ -15,4 +15,4 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Langkah Langkah Konfigurasi BIOS](konfig-bios.md)
 - [Definisi Sistem Operasi](os.md)
 - [Kernel](definisi-kernel)
-- [Instalasi Windows 10 | 32 bit](install-windows10.md)
+- [X TKJ 1 instalasi windows10  32 bit.docx](https://github.com/Dhikaweb7/Komputer-dan-Jaringan-Dasar/files/9950264/X.TKJ.1.instalasi.windows10.32.bit.docx)
