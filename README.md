@@ -16,3 +16,6 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Definisi Sistem Operasi](os.md)
 - [Kernel](definisi-kernel)
 - [Instalasi windows10 | 32 bit](https://github.com/Dhikaweb7/Komputer-dan-Jaringan-Dasar/files/9950264/X.TKJ.1.instalasi.windows10.32.bit.docx)
+- [Penginstallan Driver Periferal](driver-periferal.md)
+- [Instalasi Sistem Aplikasi Open Source | LibreOffice](libre-office.md)
+- [Instalasi Sistem Aplikasi Close Source | Microsoft Office](ms-office.md)
