@@ -43,7 +43,7 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Peralatan dan Software untuk Local Area Network/LAN](alat-lan.md)
 - [Instalasi dan Pengujian Jaringan Local Area Network/LAN](uji-lan.md)
 
-## Peralatan dan Perbaikan Jaringan Local Area Network/LAN
+### Peralatan dan Perbaikan Jaringan Local Area Network/LAN
 - [Perawatan Jaringan Local Area Network/LAN](maintance-lan.md)
 - [Mendeteksi dan Memperbaiki Permasalahan Jaringan Lan](maintance-detect-lan.md)
 - [Langkah langkah Pemeriksaan Hasil Perbaikan Konektivitas Jaringan](konek.md)
