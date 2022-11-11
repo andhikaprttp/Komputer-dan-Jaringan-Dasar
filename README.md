@@ -47,3 +47,10 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Perawatan Jaringan Local Area Network/LAN](maintance-lan.md)
 - [Mendeteksi dan Memperbaiki Permasalahan Jaringan Lan](maintance-detect-lan.md)
 - [Langkah langkah Pemeriksaan Hasil Perbaikan Konektivitas Jaringan](konek.md)
+
+---
+
+#### [Daftar Pustaka](pustaka.md)
+
+Buku KOMPUTER DAN JARINGAN DASAR
+> PROGRAM KEAHLIAN TEKNIK KOMPUTER DAN INFORMATIKA
