@@ -21,3 +21,16 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Instalasi Sistem Aplikasi Close Source | Microsoft Office](ms-office.md)
 - [Instalasi Sistem Operasi Berbasis CLI | Linux | Debian](debian-cli.md)
 - [Perintah Dasar Sistem Operasi](shortcut.md)
+
+### Pemeliharaan dan Troubleshooting Komputer
+- [Troubleshooting dan Pemeliharaan Hardware](maintance-hardware.md)
+- [Troubleshooting dan Pemeliharaan Sistem Operasi](maintance-os.md)
+- [Troubleshooting dan Pemeliharaan Software Aplikasi](maintance-software.md)
+
+### Jaringan Komputer
+- [Mengenal Dasar Jaringan Komputer](jaringan.md)
+- [Alat dan Bahan Pembuatan Jaringan Komputer](build-jaringan.md)
+- [Tipe Jaringan Komputer beserta Topologinya](net-topo.md)
+- [Mengenal IP Address](ip.md)
+
+### Sharing Resource pada Jaringan Komputer
