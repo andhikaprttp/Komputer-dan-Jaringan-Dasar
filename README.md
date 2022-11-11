@@ -19,3 +19,5 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Penginstallan Driver Periferal](driver-periferal.md)
 - [Instalasi Sistem Aplikasi Open Source | LibreOffice](libre-office.md)
 - [Instalasi Sistem Aplikasi Close Source | Microsoft Office](ms-office.md)
+- [Instalasi Sistem Operasi Berbasis CLI | Linux | Debian](debian-cli.md)
+- [Perintah Dasar Sistem Operasi](shortcut.md)
