@@ -34,3 +34,7 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Mengenal IP Address](ip.md)
 
 ### Sharing Resource pada Jaringan Komputer
+- [Prinsip Sharing Resource pada Jaringan Komputer](prinsip-share.md)
+- [Jenis Jenis Sharing Resource pada Jaringan Komputer](sharing.md)
+- [Langkah dan Pengujian Sharing Resource pada Jaringan Komputer](uji-sharing.md)
+- [Instalasi Koneksi Internet](instalasi-net.md)
