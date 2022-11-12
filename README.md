@@ -53,15 +53,10 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 #### [Daftar Pustaka](pustaka.md)
 
 Buku KOMPUTER DAN JARINGAN DASAR
+
 > PROGRAM KEAHLIAN TEKNIK KOMPUTER DAN INFORMATIKA
 
 ---
-
-Class : X TEKNIK KOMPUTER dan JARINGAN 1
-
----
-
-
 
 
 <p align="center">2022</p>
