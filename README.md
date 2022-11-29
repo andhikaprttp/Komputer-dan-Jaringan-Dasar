@@ -15,11 +15,11 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 - [Langkah Langkah Konfigurasi BIOS](konfig-bios.md)
 - [Definisi Sistem Operasi](os.md)
 - [Kernel](definisi-kernel)
-- [Instalasi windows10 | 32 bit](https://github.com/Dhikaweb7/Komputer-dan-Jaringan-Dasar/files/9950264/X.TKJ.1.instalasi.windows10.32.bit.docx)
+- [Instalasi windows10 32 bit](https://github.com/Dhikaweb7/Komputer-dan-Jaringan-Dasar/files/9950264/X.TKJ.1.instalasi.windows10.32.bit.docx)
 - [Penginstallan Driver Periferal](driver-periferal.md)
-- [Instalasi Sistem Aplikasi Open Source | LibreOffice](libre-office.md)
-- [Instalasi Sistem Aplikasi Close Source | Microsoft Office](ms-office.md)
-- [Instalasi Sistem Operasi Berbasis CLI | Linux | Debian](debian-cli.md)
+- [Instalasi Sistem Aplikasi Open Source  LibreOffice](libre-office.md)
+- [Instalasi Sistem Aplikasi Close Source Microsoft Office](ms-office.md)
+- [Instalasi Sistem Operasi Berbasis CLI  Linux Debian](debian-cli.md)
 - [Perintah Dasar Sistem Operasi](shortcut.md)
 
 ### Pemeliharaan dan Troubleshooting Komputer
@@ -50,13 +50,6 @@ Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1
 
 ---
 
-#### [Daftar Pustaka](pustaka.md)
-
-Buku KOMPUTER DAN JARINGAN DASAR
-
 > PROGRAM KEAHLIAN TEKNIK KOMPUTER DAN INFORMATIKA
 
 ---
-
-
-<p align="center">2022</p>
