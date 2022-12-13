@@ -1,4 +1,3 @@
-# Komputer-dan-Jaringan-Dasar
 
 ---
 <pre>
