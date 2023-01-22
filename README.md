@@ -11,6 +11,8 @@
 </pre>
 ---
 
+<a href="https://andhikaprttp.github.io/#"> << Kembali ke beranda </a>
+
 Materi tentang Komputer Jaringan Dasar untuk SMK kelas 1 
 
 ### Daftar isi
